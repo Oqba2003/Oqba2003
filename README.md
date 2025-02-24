@@ -1,39 +1,29 @@
-<h1 align="center">Hello 👋, I'm Oqba Alasaad</h1>
-<h3 align="center">Professional Front-end developer specializing in HTML, CSS (Tailwind), and JavaScript (React), with experience in building modern, responsive, and high-performance interfaces to enhance user experience.</h3>
-
+<h1 align="center">🚀 Hello, I'm Oqba Alasaad ♥</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 </p>
-
-- 🔭 I’m currently working on [game showcase website.](https://github.com/Oqba2003)
-- 🌱 I’m currently learning **Full-Stack Development (Laravel, React, Node.js).**
-- 📝 I regularly write articles on [https://github.com/Oqba2003](https://github.com/Oqba2003)
-- 📧 How to reach me **akbaasad12345@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1csCxcwHromDA0y--lbTxOT8-N8A9O1Kd/view?usp=drive_link)
-
-<h3 align="left">About Me:</h3>
-<p align="left">A passionate front-end developer with a focus on creating interactive and user-friendly web applications. I enjoy working with the latest technologies and improving my skills in web development. My expertise lies in HTML, CSS, JavaScript, and React, and I'm currently expanding my knowledge in back-end development with Laravel and Node.js.</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/https://www.facebook.com/share/1ftwn2kwcq/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+<br/>
+<p align="center">
+  📫 Connect with me: 
+  <a href="mailto:akbaasad12345@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/‏‎https://www.instagram.com/invites/contact/?igsh=14n0asyr4so9s&utm_content=q0u36hv" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/oqba-alasaad/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
+<p align="center">
+  ### Languages and Tools 🛠 : 
+  
+  [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
+  [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://www.w3schools.com/css/)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![React](https://img.shields.io/badge/-React-%2320232A?style=flat-square&logo=React&logoColor=%2361DAFB)](https://reactjs.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2A5?style=flat-square&logo=TailwindCSS&logoColor=ffffff)](https://tailwindcss.com/)
+  [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
+  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oqba2003&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oqba2003&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oqba2003&" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Oqba+Alasaad!;I'm+a+front-end+developer;Welcome+to+my+profile!" style="color:mix" />
+</p>
